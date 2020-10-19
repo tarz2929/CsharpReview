@@ -6,7 +6,7 @@ namespace CSharpReview_4point2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! and hello canada");
         }
     }
 }
